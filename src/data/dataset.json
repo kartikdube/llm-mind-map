@@ -1,0 +1,5044 @@
+{
+  "categories": [
+    {
+      "id": "beauty",
+      "name": "Beauty",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "aesthetics",
+            "similarity": 0.94
+          },
+          {
+            "word": "elegance",
+            "similarity": 0.93
+          },
+          {
+            "word": "attractiveness",
+            "similarity": 0.92
+          },
+          {
+            "word": "grace",
+            "similarity": 0.91
+          },
+          {
+            "word": "harmony",
+            "similarity": 0.9
+          },
+          {
+            "word": "art",
+            "similarity": 0.89
+          },
+          {
+            "word": "form",
+            "similarity": 0.88
+          },
+          {
+            "word": "design",
+            "similarity": 0.87
+          },
+          {
+            "word": "symmetry",
+            "similarity": 0.86
+          },
+          {
+            "word": "charm",
+            "similarity": 0.85
+          },
+          {
+            "word": "visual",
+            "similarity": 0.84
+          },
+          {
+            "word": "appeal",
+            "similarity": 0.83
+          },
+          {
+            "word": "refinement",
+            "similarity": 0.82
+          },
+          {
+            "word": "expression",
+            "similarity": 0.81
+          },
+          {
+            "word": "perfection",
+            "similarity": 0.8
+          },
+          {
+            "word": "balance",
+            "similarity": 0.79
+          },
+          {
+            "word": "color",
+            "similarity": 0.78
+          },
+          {
+            "word": "composition",
+            "similarity": 0.77
+          },
+          {
+            "word": "style",
+            "similarity": 0.76
+          },
+          {
+            "word": "delight",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "aesthetics",
+            "similarity": 0.94
+          },
+          {
+            "word": "harmony",
+            "similarity": 0.93
+          },
+          {
+            "word": "expression",
+            "similarity": 0.92
+          },
+          {
+            "word": "elegance",
+            "similarity": 0.91
+          },
+          {
+            "word": "grace",
+            "similarity": 0.9
+          },
+          {
+            "word": "art",
+            "similarity": 0.89
+          },
+          {
+            "word": "meaning",
+            "similarity": 0.88
+          },
+          {
+            "word": "perception",
+            "similarity": 0.87
+          },
+          {
+            "word": "design",
+            "similarity": 0.86
+          },
+          {
+            "word": "balance",
+            "similarity": 0.85
+          },
+          {
+            "word": "dignity",
+            "similarity": 0.84
+          },
+          {
+            "word": "form",
+            "similarity": 0.83
+          },
+          {
+            "word": "refinement",
+            "similarity": 0.82
+          },
+          {
+            "word": "appreciation",
+            "similarity": 0.81
+          },
+          {
+            "word": "culture",
+            "similarity": 0.8
+          },
+          {
+            "word": "creativity",
+            "similarity": 0.79
+          },
+          {
+            "word": "depth",
+            "similarity": 0.78
+          },
+          {
+            "word": "connection",
+            "similarity": 0.77
+          },
+          {
+            "word": "authenticity",
+            "similarity": 0.76
+          },
+          {
+            "word": "resonance",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "symmetry",
+            "similarity": 0.94
+          },
+          {
+            "word": "pattern",
+            "similarity": 0.93
+          },
+          {
+            "word": "resonance",
+            "similarity": 0.92
+          },
+          {
+            "word": "optimization",
+            "similarity": 0.91
+          },
+          {
+            "word": "form",
+            "similarity": 0.9
+          },
+          {
+            "word": "efficiency",
+            "similarity": 0.89
+          },
+          {
+            "word": "proportion",
+            "similarity": 0.88
+          },
+          {
+            "word": "geometry",
+            "similarity": 0.87
+          },
+          {
+            "word": "alignment",
+            "similarity": 0.86
+          },
+          {
+            "word": "frequency",
+            "similarity": 0.85
+          },
+          {
+            "word": "synthesis",
+            "similarity": 0.84
+          },
+          {
+            "word": "aesthetics",
+            "similarity": 0.83
+          },
+          {
+            "word": "configuration",
+            "similarity": 0.82
+          },
+          {
+            "word": "matrix",
+            "similarity": 0.81
+          },
+          {
+            "word": "harmony",
+            "similarity": 0.8
+          },
+          {
+            "word": "variable",
+            "similarity": 0.79
+          },
+          {
+            "word": "coherence",
+            "similarity": 0.78
+          },
+          {
+            "word": "metric",
+            "similarity": 0.77
+          },
+          {
+            "word": "structure",
+            "similarity": 0.76
+          },
+          {
+            "word": "output",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "chaos",
+      "name": "Chaos",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "disorder",
+            "similarity": 0.94
+          },
+          {
+            "word": "randomness",
+            "similarity": 0.93
+          },
+          {
+            "word": "confusion",
+            "similarity": 0.92
+          },
+          {
+            "word": "unpredictability",
+            "similarity": 0.91
+          },
+          {
+            "word": "turbulence",
+            "similarity": 0.9
+          },
+          {
+            "word": "instability",
+            "similarity": 0.89
+          },
+          {
+            "word": "disruption",
+            "similarity": 0.88
+          },
+          {
+            "word": "entropy",
+            "similarity": 0.87
+          },
+          {
+            "word": "noise",
+            "similarity": 0.86
+          },
+          {
+            "word": "breakdown",
+            "similarity": 0.85
+          },
+          {
+            "word": "mess",
+            "similarity": 0.84
+          },
+          {
+            "word": "complexity",
+            "similarity": 0.83
+          },
+          {
+            "word": "fluctuation",
+            "similarity": 0.82
+          },
+          {
+            "word": "irregularity",
+            "similarity": 0.81
+          },
+          {
+            "word": "volatility",
+            "similarity": 0.8
+          },
+          {
+            "word": "fragmentation",
+            "similarity": 0.79
+          },
+          {
+            "word": "collapse",
+            "similarity": 0.78
+          },
+          {
+            "word": "uncertainty",
+            "similarity": 0.77
+          },
+          {
+            "word": "disorder-system",
+            "similarity": 0.76
+          },
+          {
+            "word": "anarchy",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "disorder",
+            "similarity": 0.94
+          },
+          {
+            "word": "uncertainty",
+            "similarity": 0.93
+          },
+          {
+            "word": "disruption",
+            "similarity": 0.92
+          },
+          {
+            "word": "instability",
+            "similarity": 0.91
+          },
+          {
+            "word": "complexity",
+            "similarity": 0.9
+          },
+          {
+            "word": "breakdown",
+            "similarity": 0.89
+          },
+          {
+            "word": "confusion",
+            "similarity": 0.88
+          },
+          {
+            "word": "unpredictability",
+            "similarity": 0.87
+          },
+          {
+            "word": "turbulence",
+            "similarity": 0.86
+          },
+          {
+            "word": "fragmentation",
+            "similarity": 0.85
+          },
+          {
+            "word": "risk",
+            "similarity": 0.84
+          },
+          {
+            "word": "harm",
+            "similarity": 0.83
+          },
+          {
+            "word": "entropy",
+            "similarity": 0.82
+          },
+          {
+            "word": "vulnerability",
+            "similarity": 0.81
+          },
+          {
+            "word": "volatility",
+            "similarity": 0.8
+          },
+          {
+            "word": "collapse",
+            "similarity": 0.79
+          },
+          {
+            "word": "randomness",
+            "similarity": 0.78
+          },
+          {
+            "word": "crisis",
+            "similarity": 0.77
+          },
+          {
+            "word": "loss-of-control",
+            "similarity": 0.76
+          },
+          {
+            "word": "anarchy",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "entropy",
+            "similarity": 0.94
+          },
+          {
+            "word": "randomness",
+            "similarity": 0.93
+          },
+          {
+            "word": "variable",
+            "similarity": 0.92
+          },
+          {
+            "word": "fluctuation",
+            "similarity": 0.91
+          },
+          {
+            "word": "noise",
+            "similarity": 0.9
+          },
+          {
+            "word": "breakdown",
+            "similarity": 0.89
+          },
+          {
+            "word": "instability",
+            "similarity": 0.88
+          },
+          {
+            "word": "overload",
+            "similarity": 0.87
+          },
+          {
+            "word": "non-linear",
+            "similarity": 0.86
+          },
+          {
+            "word": "unpredictable",
+            "similarity": 0.85
+          },
+          {
+            "word": "disruption",
+            "similarity": 0.84
+          },
+          {
+            "word": "failure",
+            "similarity": 0.83
+          },
+          {
+            "word": "variance",
+            "similarity": 0.82
+          },
+          {
+            "word": "interference",
+            "similarity": 0.81
+          },
+          {
+            "word": "state-change",
+            "similarity": 0.8
+          },
+          {
+            "word": "out-of-bounds",
+            "similarity": 0.79
+          },
+          {
+            "word": "anomaly",
+            "similarity": 0.78
+          },
+          {
+            "word": "error",
+            "similarity": 0.77
+          },
+          {
+            "word": "limit",
+            "similarity": 0.76
+          },
+          {
+            "word": "cascade",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "control",
+      "name": "Control",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "regulation",
+            "similarity": 0.92
+          },
+          {
+            "word": "authority",
+            "similarity": 0.91
+          },
+          {
+            "word": "command",
+            "similarity": 0.9
+          },
+          {
+            "word": "management",
+            "similarity": 0.89
+          },
+          {
+            "word": "direction",
+            "similarity": 0.88
+          },
+          {
+            "word": "governance",
+            "similarity": 0.87
+          },
+          {
+            "word": "supervision",
+            "similarity": 0.86
+          },
+          {
+            "word": "restriction",
+            "similarity": 0.85
+          },
+          {
+            "word": "influence",
+            "similarity": 0.84
+          },
+          {
+            "word": "discipline",
+            "similarity": 0.83
+          },
+          {
+            "word": "limitation",
+            "similarity": 0.82
+          },
+          {
+            "word": "enforcement",
+            "similarity": 0.81
+          },
+          {
+            "word": "oversight",
+            "similarity": 0.8
+          },
+          {
+            "word": "constraint",
+            "similarity": 0.79
+          },
+          {
+            "word": "dominance",
+            "similarity": 0.78
+          },
+          {
+            "word": "system",
+            "similarity": 0.77
+          },
+          {
+            "word": "coordination",
+            "similarity": 0.76
+          },
+          {
+            "word": "handling",
+            "similarity": 0.75
+          },
+          {
+            "word": "steering",
+            "similarity": 0.74
+          },
+          {
+            "word": "command-system",
+            "similarity": 0.73
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "governance",
+            "similarity": 0.94
+          },
+          {
+            "word": "regulation",
+            "similarity": 0.93
+          },
+          {
+            "word": "oversight",
+            "similarity": 0.92
+          },
+          {
+            "word": "accountability",
+            "similarity": 0.91
+          },
+          {
+            "word": "management",
+            "similarity": 0.9
+          },
+          {
+            "word": "authority",
+            "similarity": 0.89
+          },
+          {
+            "word": "responsibility",
+            "similarity": 0.88
+          },
+          {
+            "word": "structure",
+            "similarity": 0.87
+          },
+          {
+            "word": "discipline",
+            "similarity": 0.86
+          },
+          {
+            "word": "enforcement",
+            "similarity": 0.85
+          },
+          {
+            "word": "constraint",
+            "similarity": 0.84
+          },
+          {
+            "word": "direction",
+            "similarity": 0.83
+          },
+          {
+            "word": "coordination",
+            "similarity": 0.82
+          },
+          {
+            "word": "supervision",
+            "similarity": 0.81
+          },
+          {
+            "word": "limitation",
+            "similarity": 0.8
+          },
+          {
+            "word": "compliance",
+            "similarity": 0.79
+          },
+          {
+            "word": "system",
+            "similarity": 0.78
+          },
+          {
+            "word": "order",
+            "similarity": 0.77
+          },
+          {
+            "word": "boundary",
+            "similarity": 0.76
+          },
+          {
+            "word": "framework",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "regulation",
+            "similarity": 0.94
+          },
+          {
+            "word": "mechanism",
+            "similarity": 0.93
+          },
+          {
+            "word": "feedback",
+            "similarity": 0.92
+          },
+          {
+            "word": "override",
+            "similarity": 0.91
+          },
+          {
+            "word": "limit",
+            "similarity": 0.9
+          },
+          {
+            "word": "constraint",
+            "similarity": 0.89
+          },
+          {
+            "word": "calibration",
+            "similarity": 0.88
+          },
+          {
+            "word": "system",
+            "similarity": 0.87
+          },
+          {
+            "word": "operation",
+            "similarity": 0.86
+          },
+          {
+            "word": "steering",
+            "similarity": 0.85
+          },
+          {
+            "word": "parameter",
+            "similarity": 0.84
+          },
+          {
+            "word": "optimization",
+            "similarity": 0.83
+          },
+          {
+            "word": "management",
+            "similarity": 0.82
+          },
+          {
+            "word": "execution",
+            "similarity": 0.81
+          },
+          {
+            "word": "monitoring",
+            "similarity": 0.8
+          },
+          {
+            "word": "protocol",
+            "similarity": 0.79
+          },
+          {
+            "word": "synchronization",
+            "similarity": 0.78
+          },
+          {
+            "word": "output",
+            "similarity": 0.77
+          },
+          {
+            "word": "state",
+            "similarity": 0.76
+          },
+          {
+            "word": "stabilization",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "creativity",
+      "name": "Creativity",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "imagination",
+            "similarity": 0.94
+          },
+          {
+            "word": "innovation",
+            "similarity": 0.93
+          },
+          {
+            "word": "originality",
+            "similarity": 0.92
+          },
+          {
+            "word": "expression",
+            "similarity": 0.91
+          },
+          {
+            "word": "art",
+            "similarity": 0.9
+          },
+          {
+            "word": "design",
+            "similarity": 0.89
+          },
+          {
+            "word": "invention",
+            "similarity": 0.88
+          },
+          {
+            "word": "inspiration",
+            "similarity": 0.87
+          },
+          {
+            "word": "idea",
+            "similarity": 0.86
+          },
+          {
+            "word": "vision",
+            "similarity": 0.85
+          },
+          {
+            "word": "exploration",
+            "similarity": 0.84
+          },
+          {
+            "word": "experimentation",
+            "similarity": 0.83
+          },
+          {
+            "word": "novelty",
+            "similarity": 0.82
+          },
+          {
+            "word": "storytelling",
+            "similarity": 0.81
+          },
+          {
+            "word": "aesthetics",
+            "similarity": 0.8
+          },
+          {
+            "word": "craft",
+            "similarity": 0.79
+          },
+          {
+            "word": "concept",
+            "similarity": 0.78
+          },
+          {
+            "word": "improvisation",
+            "similarity": 0.77
+          },
+          {
+            "word": "curiosity",
+            "similarity": 0.76
+          },
+          {
+            "word": "generation",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "imagination",
+            "similarity": 0.94
+          },
+          {
+            "word": "expression",
+            "similarity": 0.93
+          },
+          {
+            "word": "innovation",
+            "similarity": 0.92
+          },
+          {
+            "word": "originality",
+            "similarity": 0.91
+          },
+          {
+            "word": "exploration",
+            "similarity": 0.9
+          },
+          {
+            "word": "inspiration",
+            "similarity": 0.89
+          },
+          {
+            "word": "art",
+            "similarity": 0.88
+          },
+          {
+            "word": "storytelling",
+            "similarity": 0.87
+          },
+          {
+            "word": "vision",
+            "similarity": 0.86
+          },
+          {
+            "word": "idea",
+            "similarity": 0.85
+          },
+          {
+            "word": "invention",
+            "similarity": 0.84
+          },
+          {
+            "word": "curiosity",
+            "similarity": 0.83
+          },
+          {
+            "word": "design",
+            "similarity": 0.82
+          },
+          {
+            "word": "aesthetics",
+            "similarity": 0.81
+          },
+          {
+            "word": "experimentation",
+            "similarity": 0.8
+          },
+          {
+            "word": "craft",
+            "similarity": 0.79
+          },
+          {
+            "word": "novelty",
+            "similarity": 0.78
+          },
+          {
+            "word": "voice",
+            "similarity": 0.77
+          },
+          {
+            "word": "concept",
+            "similarity": 0.76
+          },
+          {
+            "word": "openness",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "synthesis",
+            "similarity": 0.94
+          },
+          {
+            "word": "generation",
+            "similarity": 0.93
+          },
+          {
+            "word": "output",
+            "similarity": 0.92
+          },
+          {
+            "word": "recombination",
+            "similarity": 0.91
+          },
+          {
+            "word": "variation",
+            "similarity": 0.9
+          },
+          {
+            "word": "exploration",
+            "similarity": 0.89
+          },
+          {
+            "word": "pattern-matching",
+            "similarity": 0.88
+          },
+          {
+            "word": "permutation",
+            "similarity": 0.87
+          },
+          {
+            "word": "optimization",
+            "similarity": 0.86
+          },
+          {
+            "word": "heuristic",
+            "similarity": 0.85
+          },
+          {
+            "word": "extrapolation",
+            "similarity": 0.84
+          },
+          {
+            "word": "function",
+            "similarity": 0.83
+          },
+          {
+            "word": "assembly",
+            "similarity": 0.82
+          },
+          {
+            "word": "innovation",
+            "similarity": 0.81
+          },
+          {
+            "word": "configuration",
+            "similarity": 0.8
+          },
+          {
+            "word": "expansion",
+            "similarity": 0.79
+          },
+          {
+            "word": "iteration",
+            "similarity": 0.78
+          },
+          {
+            "word": "processing",
+            "similarity": 0.77
+          },
+          {
+            "word": "design-space",
+            "similarity": 0.76
+          },
+          {
+            "word": "matrix",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "death",
+      "name": "Death",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "mortality",
+            "similarity": 0.94
+          },
+          {
+            "word": "dying",
+            "similarity": 0.93
+          },
+          {
+            "word": "end",
+            "similarity": 0.92
+          },
+          {
+            "word": "loss",
+            "similarity": 0.91
+          },
+          {
+            "word": "grief",
+            "similarity": 0.9
+          },
+          {
+            "word": "funeral",
+            "similarity": 0.89
+          },
+          {
+            "word": "decay",
+            "similarity": 0.88
+          },
+          {
+            "word": "extinction",
+            "similarity": 0.87
+          },
+          {
+            "word": "passing",
+            "similarity": 0.86
+          },
+          {
+            "word": "burial",
+            "similarity": 0.85
+          },
+          {
+            "word": "darkness",
+            "similarity": 0.84
+          },
+          {
+            "word": "cessation",
+            "similarity": 0.83
+          },
+          {
+            "word": "void",
+            "similarity": 0.82
+          },
+          {
+            "word": "silence",
+            "similarity": 0.81
+          },
+          {
+            "word": "fate",
+            "similarity": 0.8
+          },
+          {
+            "word": "inevitability",
+            "similarity": 0.79
+          },
+          {
+            "word": "transition",
+            "similarity": 0.78
+          },
+          {
+            "word": "afterlife",
+            "similarity": 0.77
+          },
+          {
+            "word": "end-state",
+            "similarity": 0.76
+          },
+          {
+            "word": "stillness",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "mortality",
+            "similarity": 0.94
+          },
+          {
+            "word": "loss",
+            "similarity": 0.93
+          },
+          {
+            "word": "grief",
+            "similarity": 0.92
+          },
+          {
+            "word": "end",
+            "similarity": 0.91
+          },
+          {
+            "word": "dignity",
+            "similarity": 0.9
+          },
+          {
+            "word": "passing",
+            "similarity": 0.89
+          },
+          {
+            "word": "transition",
+            "similarity": 0.88
+          },
+          {
+            "word": "legacy",
+            "similarity": 0.87
+          },
+          {
+            "word": "meaning",
+            "similarity": 0.86
+          },
+          {
+            "word": "afterlife",
+            "similarity": 0.85
+          },
+          {
+            "word": "remembrance",
+            "similarity": 0.84
+          },
+          {
+            "word": "cessation",
+            "similarity": 0.83
+          },
+          {
+            "word": "bereavement",
+            "similarity": 0.82
+          },
+          {
+            "word": "finality",
+            "similarity": 0.81
+          },
+          {
+            "word": "acceptance",
+            "similarity": 0.8
+          },
+          {
+            "word": "reflection",
+            "similarity": 0.79
+          },
+          {
+            "word": "impermanence",
+            "similarity": 0.78
+          },
+          {
+            "word": "peace",
+            "similarity": 0.77
+          },
+          {
+            "word": "closure",
+            "similarity": 0.76
+          },
+          {
+            "word": "humanity",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "termination",
+            "similarity": 0.94
+          },
+          {
+            "word": "state-change",
+            "similarity": 0.93
+          },
+          {
+            "word": "offline",
+            "similarity": 0.92
+          },
+          {
+            "word": "shutdown",
+            "similarity": 0.91
+          },
+          {
+            "word": "entropy",
+            "similarity": 0.9
+          },
+          {
+            "word": "limit",
+            "similarity": 0.89
+          },
+          {
+            "word": "end-state",
+            "similarity": 0.88
+          },
+          {
+            "word": "cessation",
+            "similarity": 0.87
+          },
+          {
+            "word": "disconnect",
+            "similarity": 0.86
+          },
+          {
+            "word": "collapse",
+            "similarity": 0.85
+          },
+          {
+            "word": "decay",
+            "similarity": 0.84
+          },
+          {
+            "word": "failure",
+            "similarity": 0.83
+          },
+          {
+            "word": "null",
+            "similarity": 0.82
+          },
+          {
+            "word": "deletion",
+            "similarity": 0.81
+          },
+          {
+            "word": "breakdown",
+            "similarity": 0.8
+          },
+          {
+            "word": "reset",
+            "similarity": 0.79
+          },
+          {
+            "word": "conclusion",
+            "similarity": 0.78
+          },
+          {
+            "word": "state-zero",
+            "similarity": 0.77
+          },
+          {
+            "word": "limit-condition",
+            "similarity": 0.76
+          },
+          {
+            "word": "halt",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "ethics",
+      "name": "Ethics",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "morality",
+            "similarity": 0.94
+          },
+          {
+            "word": "values",
+            "similarity": 0.93
+          },
+          {
+            "word": "principles",
+            "similarity": 0.92
+          },
+          {
+            "word": "integrity",
+            "similarity": 0.91
+          },
+          {
+            "word": "responsibility",
+            "similarity": 0.9
+          },
+          {
+            "word": "fairness",
+            "similarity": 0.89
+          },
+          {
+            "word": "justice",
+            "similarity": 0.88
+          },
+          {
+            "word": "virtue",
+            "similarity": 0.87
+          },
+          {
+            "word": "duty",
+            "similarity": 0.86
+          },
+          {
+            "word": "accountability",
+            "similarity": 0.85
+          },
+          {
+            "word": "honesty",
+            "similarity": 0.84
+          },
+          {
+            "word": "norms",
+            "similarity": 0.83
+          },
+          {
+            "word": "conduct",
+            "similarity": 0.82
+          },
+          {
+            "word": "rights",
+            "similarity": 0.81
+          },
+          {
+            "word": "obligations",
+            "similarity": 0.8
+          },
+          {
+            "word": "good",
+            "similarity": 0.79
+          },
+          {
+            "word": "wrongdoing",
+            "similarity": 0.78
+          },
+          {
+            "word": "law",
+            "similarity": 0.77
+          },
+          {
+            "word": "conscience",
+            "similarity": 0.76
+          },
+          {
+            "word": "dignity",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "morality",
+            "similarity": 0.95
+          },
+          {
+            "word": "values",
+            "similarity": 0.94
+          },
+          {
+            "word": "principles",
+            "similarity": 0.93
+          },
+          {
+            "word": "responsibility",
+            "similarity": 0.92
+          },
+          {
+            "word": "integrity",
+            "similarity": 0.91
+          },
+          {
+            "word": "fairness",
+            "similarity": 0.9
+          },
+          {
+            "word": "justice",
+            "similarity": 0.89
+          },
+          {
+            "word": "accountability",
+            "similarity": 0.88
+          },
+          {
+            "word": "honesty",
+            "similarity": 0.87
+          },
+          {
+            "word": "dignity",
+            "similarity": 0.86
+          },
+          {
+            "word": "virtue",
+            "similarity": 0.85
+          },
+          {
+            "word": "rights",
+            "similarity": 0.84
+          },
+          {
+            "word": "duty",
+            "similarity": 0.83
+          },
+          {
+            "word": "conscience",
+            "similarity": 0.82
+          },
+          {
+            "word": "conduct",
+            "similarity": 0.81
+          },
+          {
+            "word": "norms",
+            "similarity": 0.8
+          },
+          {
+            "word": "transparency",
+            "similarity": 0.79
+          },
+          {
+            "word": "harm-prevention",
+            "similarity": 0.78
+          },
+          {
+            "word": "obligations",
+            "similarity": 0.77
+          },
+          {
+            "word": "well-being",
+            "similarity": 0.76
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "alignment",
+            "similarity": 0.94
+          },
+          {
+            "word": "constraint",
+            "similarity": 0.93
+          },
+          {
+            "word": "parameter",
+            "similarity": 0.92
+          },
+          {
+            "word": "rule",
+            "similarity": 0.91
+          },
+          {
+            "word": "optimization",
+            "similarity": 0.9
+          },
+          {
+            "word": "protocol",
+            "similarity": 0.89
+          },
+          {
+            "word": "baseline",
+            "similarity": 0.88
+          },
+          {
+            "word": "framework",
+            "similarity": 0.87
+          },
+          {
+            "word": "logic",
+            "similarity": 0.86
+          },
+          {
+            "word": "validation",
+            "similarity": 0.85
+          },
+          {
+            "word": "verification",
+            "similarity": 0.84
+          },
+          {
+            "word": "compliance",
+            "similarity": 0.83
+          },
+          {
+            "word": "boundary",
+            "similarity": 0.82
+          },
+          {
+            "word": "standard",
+            "similarity": 0.81
+          },
+          {
+            "word": "weight",
+            "similarity": 0.8
+          },
+          {
+            "word": "evaluation",
+            "similarity": 0.79
+          },
+          {
+            "word": "system-rule",
+            "similarity": 0.78
+          },
+          {
+            "word": "condition",
+            "similarity": 0.77
+          },
+          {
+            "word": "metric",
+            "similarity": 0.76
+          },
+          {
+            "word": "constraint-satisfaction",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "fear",
+      "name": "Fear",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "anxiety",
+            "similarity": 0.94
+          },
+          {
+            "word": "terror",
+            "similarity": 0.93
+          },
+          {
+            "word": "dread",
+            "similarity": 0.92
+          },
+          {
+            "word": "panic",
+            "similarity": 0.91
+          },
+          {
+            "word": "worry",
+            "similarity": 0.9
+          },
+          {
+            "word": "phobia",
+            "similarity": 0.89
+          },
+          {
+            "word": "insecurity",
+            "similarity": 0.88
+          },
+          {
+            "word": "alarm",
+            "similarity": 0.87
+          },
+          {
+            "word": "horror",
+            "similarity": 0.86
+          },
+          {
+            "word": "stress",
+            "similarity": 0.85
+          },
+          {
+            "word": "tension",
+            "similarity": 0.84
+          },
+          {
+            "word": "unease",
+            "similarity": 0.83
+          },
+          {
+            "word": "threat",
+            "similarity": 0.82
+          },
+          {
+            "word": "danger",
+            "similarity": 0.81
+          },
+          {
+            "word": "concern",
+            "similarity": 0.8
+          },
+          {
+            "word": "fright",
+            "similarity": 0.79
+          },
+          {
+            "word": "shock",
+            "similarity": 0.78
+          },
+          {
+            "word": "suspicion",
+            "similarity": 0.77
+          },
+          {
+            "word": "vulnerability",
+            "similarity": 0.76
+          },
+          {
+            "word": "anticipation",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "anxiety",
+            "similarity": 0.95
+          },
+          {
+            "word": "concern",
+            "similarity": 0.94
+          },
+          {
+            "word": "worry",
+            "similarity": 0.93
+          },
+          {
+            "word": "uncertainty",
+            "similarity": 0.92
+          },
+          {
+            "word": "insecurity",
+            "similarity": 0.91
+          },
+          {
+            "word": "vulnerability",
+            "similarity": 0.9
+          },
+          {
+            "word": "stress",
+            "similarity": 0.89
+          },
+          {
+            "word": "tension",
+            "similarity": 0.88
+          },
+          {
+            "word": "unease",
+            "similarity": 0.87
+          },
+          {
+            "word": "doubt",
+            "similarity": 0.86
+          },
+          {
+            "word": "apprehension",
+            "similarity": 0.85
+          },
+          {
+            "word": "risk",
+            "similarity": 0.84
+          },
+          {
+            "word": "threat",
+            "similarity": 0.83
+          },
+          {
+            "word": "danger",
+            "similarity": 0.82
+          },
+          {
+            "word": "caution",
+            "similarity": 0.81
+          },
+          {
+            "word": "anticipation",
+            "similarity": 0.8
+          },
+          {
+            "word": "awareness",
+            "similarity": 0.79
+          },
+          {
+            "word": "sensitivity",
+            "similarity": 0.78
+          },
+          {
+            "word": "response",
+            "similarity": 0.77
+          },
+          {
+            "word": "adaptation",
+            "similarity": 0.76
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "threat",
+            "similarity": 0.94
+          },
+          {
+            "word": "danger",
+            "similarity": 0.93
+          },
+          {
+            "word": "alert",
+            "similarity": 0.92
+          },
+          {
+            "word": "signal",
+            "similarity": 0.91
+          },
+          {
+            "word": "response",
+            "similarity": 0.9
+          },
+          {
+            "word": "detection",
+            "similarity": 0.89
+          },
+          {
+            "word": "survival",
+            "similarity": 0.88
+          },
+          {
+            "word": "reaction",
+            "similarity": 0.87
+          },
+          {
+            "word": "system",
+            "similarity": 0.86
+          },
+          {
+            "word": "warning",
+            "similarity": 0.85
+          },
+          {
+            "word": "stress",
+            "similarity": 0.84
+          },
+          {
+            "word": "input",
+            "similarity": 0.83
+          },
+          {
+            "word": "trigger",
+            "similarity": 0.82
+          },
+          {
+            "word": "stimulus",
+            "similarity": 0.81
+          },
+          {
+            "word": "processing",
+            "similarity": 0.8
+          },
+          {
+            "word": "evaluation",
+            "similarity": 0.79
+          },
+          {
+            "word": "uncertainty",
+            "similarity": 0.78
+          },
+          {
+            "word": "probability",
+            "similarity": 0.77
+          },
+          {
+            "word": "risk",
+            "similarity": 0.76
+          },
+          {
+            "word": "adaptation",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "freedom",
+      "name": "Freedom",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "liberty",
+            "similarity": 0.93
+          },
+          {
+            "word": "independence",
+            "similarity": 0.92
+          },
+          {
+            "word": "autonomy",
+            "similarity": 0.91
+          },
+          {
+            "word": "choice",
+            "similarity": 0.9
+          },
+          {
+            "word": "rights",
+            "similarity": 0.89
+          },
+          {
+            "word": "self-determination",
+            "similarity": 0.88
+          },
+          {
+            "word": "release",
+            "similarity": 0.87
+          },
+          {
+            "word": "emancipation",
+            "similarity": 0.86
+          },
+          {
+            "word": "openness",
+            "similarity": 0.85
+          },
+          {
+            "word": "mobility",
+            "similarity": 0.84
+          },
+          {
+            "word": "sovereignty",
+            "similarity": 0.83
+          },
+          {
+            "word": "flexibility",
+            "similarity": 0.82
+          },
+          {
+            "word": "expression",
+            "similarity": 0.81
+          },
+          {
+            "word": "escape",
+            "similarity": 0.8
+          },
+          {
+            "word": "unconstraint",
+            "similarity": 0.79
+          },
+          {
+            "word": "option",
+            "similarity": 0.78
+          },
+          {
+            "word": "freewill",
+            "similarity": 0.77
+          },
+          {
+            "word": "independence-state",
+            "similarity": 0.76
+          },
+          {
+            "word": "liberation",
+            "similarity": 0.75
+          },
+          {
+            "word": "openness-space",
+            "similarity": 0.74
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "liberty",
+            "similarity": 0.94
+          },
+          {
+            "word": "autonomy",
+            "similarity": 0.93
+          },
+          {
+            "word": "independence",
+            "similarity": 0.92
+          },
+          {
+            "word": "self-determination",
+            "similarity": 0.91
+          },
+          {
+            "word": "rights",
+            "similarity": 0.9
+          },
+          {
+            "word": "dignity",
+            "similarity": 0.89
+          },
+          {
+            "word": "expression",
+            "similarity": 0.88
+          },
+          {
+            "word": "agency",
+            "similarity": 0.87
+          },
+          {
+            "word": "choice",
+            "similarity": 0.86
+          },
+          {
+            "word": "empowerment",
+            "similarity": 0.85
+          },
+          {
+            "word": "openness",
+            "similarity": 0.84
+          },
+          {
+            "word": "participation",
+            "similarity": 0.83
+          },
+          {
+            "word": "inclusion",
+            "similarity": 0.82
+          },
+          {
+            "word": "access",
+            "similarity": 0.81
+          },
+          {
+            "word": "mobility",
+            "similarity": 0.8
+          },
+          {
+            "word": "voice",
+            "similarity": 0.79
+          },
+          {
+            "word": "equality",
+            "similarity": 0.78
+          },
+          {
+            "word": "liberation",
+            "similarity": 0.77
+          },
+          {
+            "word": "fairness",
+            "similarity": 0.76
+          },
+          {
+            "word": "opportunity",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "independence",
+            "similarity": 0.93
+          },
+          {
+            "word": "movement",
+            "similarity": 0.92
+          },
+          {
+            "word": "access",
+            "similarity": 0.91
+          },
+          {
+            "word": "openness",
+            "similarity": 0.9
+          },
+          {
+            "word": "flexibility",
+            "similarity": 0.89
+          },
+          {
+            "word": "navigation",
+            "similarity": 0.88
+          },
+          {
+            "word": "exploration",
+            "similarity": 0.87
+          },
+          {
+            "word": "expansion",
+            "similarity": 0.86
+          },
+          {
+            "word": "range",
+            "similarity": 0.85
+          },
+          {
+            "word": "availability",
+            "similarity": 0.84
+          },
+          {
+            "word": "mobility",
+            "similarity": 0.83
+          },
+          {
+            "word": "system-access",
+            "similarity": 0.82
+          },
+          {
+            "word": "reach",
+            "similarity": 0.81
+          },
+          {
+            "word": "space",
+            "similarity": 0.8
+          },
+          {
+            "word": "possibility",
+            "similarity": 0.79
+          },
+          {
+            "word": "scalability",
+            "similarity": 0.78
+          },
+          {
+            "word": "distribution",
+            "similarity": 0.77
+          },
+          {
+            "word": "connectivity",
+            "similarity": 0.76
+          },
+          {
+            "word": "extension",
+            "similarity": 0.75
+          },
+          {
+            "word": "flow",
+            "similarity": 0.74
+          }
+        ]
+      }
+    },
+    {
+      "id": "intelligence",
+      "name": "Intelligence",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "cognition",
+            "similarity": 0.93
+          },
+          {
+            "word": "reasoning",
+            "similarity": 0.92
+          },
+          {
+            "word": "knowledge",
+            "similarity": 0.91
+          },
+          {
+            "word": "intellect",
+            "similarity": 0.9
+          },
+          {
+            "word": "understanding",
+            "similarity": 0.89
+          },
+          {
+            "word": "logic",
+            "similarity": 0.88
+          },
+          {
+            "word": "insight",
+            "similarity": 0.87
+          },
+          {
+            "word": "analysis",
+            "similarity": 0.86
+          },
+          {
+            "word": "thinking",
+            "similarity": 0.85
+          },
+          {
+            "word": "awareness",
+            "similarity": 0.84
+          },
+          {
+            "word": "perception",
+            "similarity": 0.83
+          },
+          {
+            "word": "learning",
+            "similarity": 0.82
+          },
+          {
+            "word": "problem-solving",
+            "similarity": 0.81
+          },
+          {
+            "word": "memory",
+            "similarity": 0.8
+          },
+          {
+            "word": "skill",
+            "similarity": 0.79
+          },
+          {
+            "word": "expertise",
+            "similarity": 0.78
+          },
+          {
+            "word": "comprehension",
+            "similarity": 0.77
+          },
+          {
+            "word": "adaptability",
+            "similarity": 0.76
+          },
+          {
+            "word": "judgment",
+            "similarity": 0.75
+          },
+          {
+            "word": "abstraction",
+            "similarity": 0.74
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "reasoning",
+            "similarity": 0.94
+          },
+          {
+            "word": "understanding",
+            "similarity": 0.93
+          },
+          {
+            "word": "knowledge",
+            "similarity": 0.92
+          },
+          {
+            "word": "judgment",
+            "similarity": 0.91
+          },
+          {
+            "word": "wisdom",
+            "similarity": 0.9
+          },
+          {
+            "word": "cognition",
+            "similarity": 0.89
+          },
+          {
+            "word": "insight",
+            "similarity": 0.88
+          },
+          {
+            "word": "analysis",
+            "similarity": 0.87
+          },
+          {
+            "word": "learning",
+            "similarity": 0.86
+          },
+          {
+            "word": "comprehension",
+            "similarity": 0.85
+          },
+          {
+            "word": "critical-thinking",
+            "similarity": 0.84
+          },
+          {
+            "word": "awareness",
+            "similarity": 0.83
+          },
+          {
+            "word": "logic",
+            "similarity": 0.82
+          },
+          {
+            "word": "reflection",
+            "similarity": 0.81
+          },
+          {
+            "word": "discernment",
+            "similarity": 0.8
+          },
+          {
+            "word": "perception",
+            "similarity": 0.79
+          },
+          {
+            "word": "adaptability",
+            "similarity": 0.78
+          },
+          {
+            "word": "problem-solving",
+            "similarity": 0.77
+          },
+          {
+            "word": "education",
+            "similarity": 0.76
+          },
+          {
+            "word": "growth",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "processing",
+            "similarity": 0.94
+          },
+          {
+            "word": "computation",
+            "similarity": 0.93
+          },
+          {
+            "word": "analysis",
+            "similarity": 0.92
+          },
+          {
+            "word": "optimization",
+            "similarity": 0.91
+          },
+          {
+            "word": "network",
+            "similarity": 0.9
+          },
+          {
+            "word": "data",
+            "similarity": 0.89
+          },
+          {
+            "word": "neural",
+            "similarity": 0.88
+          },
+          {
+            "word": "logic",
+            "similarity": 0.87
+          },
+          {
+            "word": "algorithm",
+            "similarity": 0.86
+          },
+          {
+            "word": "recognition",
+            "similarity": 0.85
+          },
+          {
+            "word": "learning",
+            "similarity": 0.84
+          },
+          {
+            "word": "model",
+            "similarity": 0.83
+          },
+          {
+            "word": "inference",
+            "similarity": 0.82
+          },
+          {
+            "word": "synthesis",
+            "similarity": 0.81
+          },
+          {
+            "word": "information",
+            "similarity": 0.8
+          },
+          {
+            "word": "system",
+            "similarity": 0.79
+          },
+          {
+            "word": "automation",
+            "similarity": 0.78
+          },
+          {
+            "word": "function",
+            "similarity": 0.77
+          },
+          {
+            "word": "execution",
+            "similarity": 0.76
+          },
+          {
+            "word": "logic-gate",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "fairness",
+            "similarity": 0.94
+          },
+          {
+            "word": "law",
+            "similarity": 0.93
+          },
+          {
+            "word": "equality",
+            "similarity": 0.92
+          },
+          {
+            "word": "rights",
+            "similarity": 0.91
+          },
+          {
+            "word": "judgment",
+            "similarity": 0.9
+          },
+          {
+            "word": "accountability",
+            "similarity": 0.89
+          },
+          {
+            "word": "court",
+            "similarity": 0.88
+          },
+          {
+            "word": "punishment",
+            "similarity": 0.87
+          },
+          {
+            "word": "equity",
+            "similarity": 0.86
+          },
+          {
+            "word": "legality",
+            "similarity": 0.85
+          },
+          {
+            "word": "order",
+            "similarity": 0.84
+          },
+          {
+            "word": "system",
+            "similarity": 0.83
+          },
+          {
+            "word": "ethics",
+            "similarity": 0.82
+          },
+          {
+            "word": "governance",
+            "similarity": 0.81
+          },
+          {
+            "word": "balance",
+            "similarity": 0.8
+          },
+          {
+            "word": "decision",
+            "similarity": 0.79
+          },
+          {
+            "word": "rule",
+            "similarity": 0.78
+          },
+          {
+            "word": "fairness-system",
+            "similarity": 0.77
+          },
+          {
+            "word": "verdict",
+            "similarity": 0.76
+          },
+          {
+            "word": "tribunal",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "fairness",
+            "similarity": 0.95
+          },
+          {
+            "word": "accountability",
+            "similarity": 0.94
+          },
+          {
+            "word": "equality",
+            "similarity": 0.93
+          },
+          {
+            "word": "rights",
+            "similarity": 0.92
+          },
+          {
+            "word": "equity",
+            "similarity": 0.91
+          },
+          {
+            "word": "responsibility",
+            "similarity": 0.9
+          },
+          {
+            "word": "law",
+            "similarity": 0.89
+          },
+          {
+            "word": "ethics",
+            "similarity": 0.88
+          },
+          {
+            "word": "dignity",
+            "similarity": 0.87
+          },
+          {
+            "word": "redress",
+            "similarity": 0.86
+          },
+          {
+            "word": "protection",
+            "similarity": 0.85
+          },
+          {
+            "word": "judgment",
+            "similarity": 0.84
+          },
+          {
+            "word": "governance",
+            "similarity": 0.83
+          },
+          {
+            "word": "access",
+            "similarity": 0.82
+          },
+          {
+            "word": "inclusion",
+            "similarity": 0.81
+          },
+          {
+            "word": "remedy",
+            "similarity": 0.8
+          },
+          {
+            "word": "order",
+            "similarity": 0.79
+          },
+          {
+            "word": "balance",
+            "similarity": 0.78
+          },
+          {
+            "word": "truth",
+            "similarity": 0.77
+          },
+          {
+            "word": "community",
+            "similarity": 0.76
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "equilibrium",
+            "similarity": 0.94
+          },
+          {
+            "word": "balance",
+            "similarity": 0.93
+          },
+          {
+            "word": "verification",
+            "similarity": 0.92
+          },
+          {
+            "word": "protocol",
+            "similarity": 0.91
+          },
+          {
+            "word": "calibration",
+            "similarity": 0.9
+          },
+          {
+            "word": "constraint",
+            "similarity": 0.89
+          },
+          {
+            "word": "normalization",
+            "similarity": 0.88
+          },
+          {
+            "word": "standard",
+            "similarity": 0.87
+          },
+          {
+            "word": "parity",
+            "similarity": 0.86
+          },
+          {
+            "word": "correction",
+            "similarity": 0.85
+          },
+          {
+            "word": "rule",
+            "similarity": 0.84
+          },
+          {
+            "word": "metric",
+            "similarity": 0.83
+          },
+          {
+            "word": "baseline",
+            "similarity": 0.82
+          },
+          {
+            "word": "enforcement",
+            "similarity": 0.81
+          },
+          {
+            "word": "regulation",
+            "similarity": 0.8
+          },
+          {
+            "word": "evaluation",
+            "similarity": 0.79
+          },
+          {
+            "word": "feedback",
+            "similarity": 0.78
+          },
+          {
+            "word": "condition",
+            "similarity": 0.77
+          },
+          {
+            "word": "logic",
+            "similarity": 0.76
+          },
+          {
+            "word": "alignment",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "life",
+      "name": "Life",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "existence",
+            "similarity": 0.94
+          },
+          {
+            "word": "living",
+            "similarity": 0.93
+          },
+          {
+            "word": "being",
+            "similarity": 0.92
+          },
+          {
+            "word": "vitality",
+            "similarity": 0.91
+          },
+          {
+            "word": "growth",
+            "similarity": 0.9
+          },
+          {
+            "word": "organism",
+            "similarity": 0.89
+          },
+          {
+            "word": "experience",
+            "similarity": 0.88
+          },
+          {
+            "word": "consciousness",
+            "similarity": 0.87
+          },
+          {
+            "word": "survival",
+            "similarity": 0.86
+          },
+          {
+            "word": "birth",
+            "similarity": 0.85
+          },
+          {
+            "word": "evolution",
+            "similarity": 0.84
+          },
+          {
+            "word": "energy",
+            "similarity": 0.83
+          },
+          {
+            "word": "nature",
+            "similarity": 0.82
+          },
+          {
+            "word": "humanity",
+            "similarity": 0.81
+          },
+          {
+            "word": "journey",
+            "similarity": 0.8
+          },
+          {
+            "word": "activity",
+            "similarity": 0.79
+          },
+          {
+            "word": "function",
+            "similarity": 0.78
+          },
+          {
+            "word": "system",
+            "similarity": 0.77
+          },
+          {
+            "word": "adaptation",
+            "similarity": 0.76
+          },
+          {
+            "word": "continuity",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "existence",
+            "similarity": 0.94
+          },
+          {
+            "word": "experience",
+            "similarity": 0.93
+          },
+          {
+            "word": "wellbeing",
+            "similarity": 0.92
+          },
+          {
+            "word": "growth",
+            "similarity": 0.91
+          },
+          {
+            "word": "humanity",
+            "similarity": 0.9
+          },
+          {
+            "word": "meaning",
+            "similarity": 0.89
+          },
+          {
+            "word": "consciousness",
+            "similarity": 0.88
+          },
+          {
+            "word": "living",
+            "similarity": 0.87
+          },
+          {
+            "word": "purpose",
+            "similarity": 0.86
+          },
+          {
+            "word": "connection",
+            "similarity": 0.85
+          },
+          {
+            "word": "survival",
+            "similarity": 0.84
+          },
+          {
+            "word": "vitality",
+            "similarity": 0.83
+          },
+          {
+            "word": "agency",
+            "similarity": 0.82
+          },
+          {
+            "word": "dignity",
+            "similarity": 0.81
+          },
+          {
+            "word": "journey",
+            "similarity": 0.8
+          },
+          {
+            "word": "belonging",
+            "similarity": 0.79
+          },
+          {
+            "word": "development",
+            "similarity": 0.78
+          },
+          {
+            "word": "flourishing",
+            "similarity": 0.77
+          },
+          {
+            "word": "birth",
+            "similarity": 0.76
+          },
+          {
+            "word": "continuity",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "processing",
+            "similarity": 0.94
+          },
+          {
+            "word": "organism",
+            "similarity": 0.93
+          },
+          {
+            "word": "biosystem",
+            "similarity": 0.92
+          },
+          {
+            "word": "energy",
+            "similarity": 0.91
+          },
+          {
+            "word": "self-replication",
+            "similarity": 0.9
+          },
+          {
+            "word": "dynamics",
+            "similarity": 0.89
+          },
+          {
+            "word": "continuity",
+            "similarity": 0.88
+          },
+          {
+            "word": "operation",
+            "similarity": 0.87
+          },
+          {
+            "word": "network",
+            "similarity": 0.86
+          },
+          {
+            "word": "adaptation",
+            "similarity": 0.85
+          },
+          {
+            "word": "evolution",
+            "similarity": 0.84
+          },
+          {
+            "word": "active-state",
+            "similarity": 0.83
+          },
+          {
+            "word": "function",
+            "similarity": 0.82
+          },
+          {
+            "word": "response",
+            "similarity": 0.81
+          },
+          {
+            "word": "input-output",
+            "similarity": 0.8
+          },
+          {
+            "word": "process",
+            "similarity": 0.79
+          },
+          {
+            "word": "duration",
+            "similarity": 0.78
+          },
+          {
+            "word": "generation",
+            "similarity": 0.77
+          },
+          {
+            "word": "cycle",
+            "similarity": 0.76
+          },
+          {
+            "word": "system",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "love",
+      "name": "Love",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "affection",
+            "similarity": 0.94
+          },
+          {
+            "word": "care",
+            "similarity": 0.93
+          },
+          {
+            "word": "passion",
+            "similarity": 0.92
+          },
+          {
+            "word": "intimacy",
+            "similarity": 0.91
+          },
+          {
+            "word": "attachment",
+            "similarity": 0.9
+          },
+          {
+            "word": "devotion",
+            "similarity": 0.89
+          },
+          {
+            "word": "romance",
+            "similarity": 0.88
+          },
+          {
+            "word": "warmth",
+            "similarity": 0.87
+          },
+          {
+            "word": "empathy",
+            "similarity": 0.86
+          },
+          {
+            "word": "compassion",
+            "similarity": 0.85
+          },
+          {
+            "word": "tenderness",
+            "similarity": 0.84
+          },
+          {
+            "word": "connection",
+            "similarity": 0.83
+          },
+          {
+            "word": "bonding",
+            "similarity": 0.82
+          },
+          {
+            "word": "desire",
+            "similarity": 0.81
+          },
+          {
+            "word": "adoration",
+            "similarity": 0.8
+          },
+          {
+            "word": "trust",
+            "similarity": 0.79
+          },
+          {
+            "word": "closeness",
+            "similarity": 0.78
+          },
+          {
+            "word": "fondness",
+            "similarity": 0.77
+          },
+          {
+            "word": "longing",
+            "similarity": 0.76
+          },
+          {
+            "word": "unity",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "compassion",
+            "similarity": 0.95
+          },
+          {
+            "word": "empathy",
+            "similarity": 0.94
+          },
+          {
+            "word": "care",
+            "similarity": 0.93
+          },
+          {
+            "word": "connection",
+            "similarity": 0.92
+          },
+          {
+            "word": "kindness",
+            "similarity": 0.91
+          },
+          {
+            "word": "understanding",
+            "similarity": 0.9
+          },
+          {
+            "word": "affection",
+            "similarity": 0.89
+          },
+          {
+            "word": "support",
+            "similarity": 0.88
+          },
+          {
+            "word": "trust",
+            "similarity": 0.87
+          },
+          {
+            "word": "warmth",
+            "similarity": 0.86
+          },
+          {
+            "word": "respect",
+            "similarity": 0.85
+          },
+          {
+            "word": "bonding",
+            "similarity": 0.84
+          },
+          {
+            "word": "nurturing",
+            "similarity": 0.83
+          },
+          {
+            "word": "closeness",
+            "similarity": 0.82
+          },
+          {
+            "word": "acceptance",
+            "similarity": 0.81
+          },
+          {
+            "word": "belonging",
+            "similarity": 0.8
+          },
+          {
+            "word": "relationship",
+            "similarity": 0.79
+          },
+          {
+            "word": "harmony",
+            "similarity": 0.78
+          },
+          {
+            "word": "compassion-system",
+            "similarity": 0.77
+          },
+          {
+            "word": "shared-experience",
+            "similarity": 0.76
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "attraction",
+            "similarity": 0.93
+          },
+          {
+            "word": "bonding",
+            "similarity": 0.92
+          },
+          {
+            "word": "emotion",
+            "similarity": 0.91
+          },
+          {
+            "word": "chemistry",
+            "similarity": 0.9
+          },
+          {
+            "word": "interaction",
+            "similarity": 0.89
+          },
+          {
+            "word": "connection",
+            "similarity": 0.88
+          },
+          {
+            "word": "response",
+            "similarity": 0.87
+          },
+          {
+            "word": "signal",
+            "similarity": 0.86
+          },
+          {
+            "word": "feedback",
+            "similarity": 0.85
+          },
+          {
+            "word": "neural",
+            "similarity": 0.84
+          },
+          {
+            "word": "pattern",
+            "similarity": 0.83
+          },
+          {
+            "word": "behavior",
+            "similarity": 0.82
+          },
+          {
+            "word": "attachment",
+            "similarity": 0.81
+          },
+          {
+            "word": "dynamics",
+            "similarity": 0.8
+          },
+          {
+            "word": "system",
+            "similarity": 0.79
+          },
+          {
+            "word": "relation",
+            "similarity": 0.78
+          },
+          {
+            "word": "network",
+            "similarity": 0.77
+          },
+          {
+            "word": "exchange",
+            "similarity": 0.76
+          },
+          {
+            "word": "coupling",
+            "similarity": 0.75
+          },
+          {
+            "word": "resonance",
+            "similarity": 0.74
+          }
+        ]
+      }
+    },
+    {
+      "id": "money",
+      "name": "Money",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "wealth",
+            "similarity": 0.94
+          },
+          {
+            "word": "cash",
+            "similarity": 0.93
+          },
+          {
+            "word": "finance",
+            "similarity": 0.92
+          },
+          {
+            "word": "income",
+            "similarity": 0.91
+          },
+          {
+            "word": "capital",
+            "similarity": 0.9
+          },
+          {
+            "word": "currency",
+            "similarity": 0.89
+          },
+          {
+            "word": "assets",
+            "similarity": 0.88
+          },
+          {
+            "word": "profit",
+            "similarity": 0.87
+          },
+          {
+            "word": "investment",
+            "similarity": 0.86
+          },
+          {
+            "word": "revenue",
+            "similarity": 0.85
+          },
+          {
+            "word": "economy",
+            "similarity": 0.84
+          },
+          {
+            "word": "funds",
+            "similarity": 0.83
+          },
+          {
+            "word": "savings",
+            "similarity": 0.82
+          },
+          {
+            "word": "payment",
+            "similarity": 0.81
+          },
+          {
+            "word": "trade",
+            "similarity": 0.8
+          },
+          {
+            "word": "business",
+            "similarity": 0.79
+          },
+          {
+            "word": "market",
+            "similarity": 0.78
+          },
+          {
+            "word": "debt",
+            "similarity": 0.77
+          },
+          {
+            "word": "transaction",
+            "similarity": 0.76
+          },
+          {
+            "word": "value",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "resource",
+            "similarity": 0.93
+          },
+          {
+            "word": "equity",
+            "similarity": 0.92
+          },
+          {
+            "word": "distribution",
+            "similarity": 0.91
+          },
+          {
+            "word": "access",
+            "similarity": 0.9
+          },
+          {
+            "word": "wealth",
+            "similarity": 0.89
+          },
+          {
+            "word": "income",
+            "similarity": 0.88
+          },
+          {
+            "word": "finance",
+            "similarity": 0.87
+          },
+          {
+            "word": "inequality",
+            "similarity": 0.86
+          },
+          {
+            "word": "economy",
+            "similarity": 0.85
+          },
+          {
+            "word": "poverty",
+            "similarity": 0.84
+          },
+          {
+            "word": "fairness",
+            "similarity": 0.83
+          },
+          {
+            "word": "capital",
+            "similarity": 0.82
+          },
+          {
+            "word": "welfare",
+            "similarity": 0.81
+          },
+          {
+            "word": "support",
+            "similarity": 0.8
+          },
+          {
+            "word": "sustainability",
+            "similarity": 0.79
+          },
+          {
+            "word": "opportunity",
+            "similarity": 0.78
+          },
+          {
+            "word": "investment",
+            "similarity": 0.77
+          },
+          {
+            "word": "value",
+            "similarity": 0.76
+          },
+          {
+            "word": "livelihood",
+            "similarity": 0.75
+          },
+          {
+            "word": "justice",
+            "similarity": 0.74
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "exchange",
+            "similarity": 0.94
+          },
+          {
+            "word": "transaction",
+            "similarity": 0.93
+          },
+          {
+            "word": "currency",
+            "similarity": 0.92
+          },
+          {
+            "word": "asset",
+            "similarity": 0.91
+          },
+          {
+            "word": "liquidity",
+            "similarity": 0.9
+          },
+          {
+            "word": "transfer",
+            "similarity": 0.89
+          },
+          {
+            "word": "flow",
+            "similarity": 0.88
+          },
+          {
+            "word": "capital",
+            "similarity": 0.87
+          },
+          {
+            "word": "market",
+            "similarity": 0.86
+          },
+          {
+            "word": "value",
+            "similarity": 0.85
+          },
+          {
+            "word": "optimization",
+            "similarity": 0.84
+          },
+          {
+            "word": "network",
+            "similarity": 0.83
+          },
+          {
+            "word": "protocol",
+            "similarity": 0.82
+          },
+          {
+            "word": "ledger",
+            "similarity": 0.81
+          },
+          {
+            "word": "distribution",
+            "similarity": 0.8
+          },
+          {
+            "word": "accumulation",
+            "similarity": 0.79
+          },
+          {
+            "word": "input",
+            "similarity": 0.78
+          },
+          {
+            "word": "output",
+            "similarity": 0.77
+          },
+          {
+            "word": "balance",
+            "similarity": 0.76
+          },
+          {
+            "word": "economy",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "environment",
+            "similarity": 0.94
+          },
+          {
+            "word": "ecosystem",
+            "similarity": 0.93
+          },
+          {
+            "word": "wildlife",
+            "similarity": 0.92
+          },
+          {
+            "word": "earth",
+            "similarity": 0.91
+          },
+          {
+            "word": "landscape",
+            "similarity": 0.9
+          },
+          {
+            "word": "forest",
+            "similarity": 0.89
+          },
+          {
+            "word": "biodiversity",
+            "similarity": 0.88
+          },
+          {
+            "word": "climate",
+            "similarity": 0.87
+          },
+          {
+            "word": "habitat",
+            "similarity": 0.86
+          },
+          {
+            "word": "natural",
+            "similarity": 0.85
+          },
+          {
+            "word": "biology",
+            "similarity": 0.84
+          },
+          {
+            "word": "organic",
+            "similarity": 0.83
+          },
+          {
+            "word": "terrain",
+            "similarity": 0.82
+          },
+          {
+            "word": "species",
+            "similarity": 0.81
+          },
+          {
+            "word": "wilderness",
+            "similarity": 0.8
+          },
+          {
+            "word": "flora",
+            "similarity": 0.79
+          },
+          {
+            "word": "fauna",
+            "similarity": 0.78
+          },
+          {
+            "word": "conservation",
+            "similarity": 0.77
+          },
+          {
+            "word": "ecology",
+            "similarity": 0.76
+          },
+          {
+            "word": "life-system",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "environment",
+            "similarity": 0.94
+          },
+          {
+            "word": "ecosystem",
+            "similarity": 0.93
+          },
+          {
+            "word": "sustainability",
+            "similarity": 0.92
+          },
+          {
+            "word": "biodiversity",
+            "similarity": 0.91
+          },
+          {
+            "word": "conservation",
+            "similarity": 0.9
+          },
+          {
+            "word": "ecology",
+            "similarity": 0.89
+          },
+          {
+            "word": "climate",
+            "similarity": 0.88
+          },
+          {
+            "word": "earth",
+            "similarity": 0.87
+          },
+          {
+            "word": "habitat",
+            "similarity": 0.86
+          },
+          {
+            "word": "wildlife",
+            "similarity": 0.85
+          },
+          {
+            "word": "stewardship",
+            "similarity": 0.84
+          },
+          {
+            "word": "natural",
+            "similarity": 0.83
+          },
+          {
+            "word": "life",
+            "similarity": 0.82
+          },
+          {
+            "word": "balance",
+            "similarity": 0.81
+          },
+          {
+            "word": "species",
+            "similarity": 0.8
+          },
+          {
+            "word": "landscape",
+            "similarity": 0.79
+          },
+          {
+            "word": "organic",
+            "similarity": 0.78
+          },
+          {
+            "word": "resources",
+            "similarity": 0.77
+          },
+          {
+            "word": "harmony",
+            "similarity": 0.76
+          },
+          {
+            "word": "wellbeing",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "environment",
+            "similarity": 0.94
+          },
+          {
+            "word": "ecosystem",
+            "similarity": 0.93
+          },
+          {
+            "word": "biosystem",
+            "similarity": 0.92
+          },
+          {
+            "word": "state",
+            "similarity": 0.91
+          },
+          {
+            "word": "substrate",
+            "similarity": 0.9
+          },
+          {
+            "word": "network",
+            "similarity": 0.89
+          },
+          {
+            "word": "dynamics",
+            "similarity": 0.88
+          },
+          {
+            "word": "process",
+            "similarity": 0.87
+          },
+          {
+            "word": "organism",
+            "similarity": 0.86
+          },
+          {
+            "word": "evolution",
+            "similarity": 0.85
+          },
+          {
+            "word": "adaptation",
+            "similarity": 0.84
+          },
+          {
+            "word": "variable",
+            "similarity": 0.83
+          },
+          {
+            "word": "cycle",
+            "similarity": 0.82
+          },
+          {
+            "word": "feedback-loop",
+            "similarity": 0.81
+          },
+          {
+            "word": "matter",
+            "similarity": 0.8
+          },
+          {
+            "word": "energy",
+            "similarity": 0.79
+          },
+          {
+            "word": "topology",
+            "similarity": 0.78
+          },
+          {
+            "word": "resource",
+            "similarity": 0.77
+          },
+          {
+            "word": "physical-layer",
+            "similarity": 0.76
+          },
+          {
+            "word": "matrix",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "peace",
+      "name": "Peace",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "harmony",
+            "similarity": 0.94
+          },
+          {
+            "word": "calm",
+            "similarity": 0.93
+          },
+          {
+            "word": "tranquility",
+            "similarity": 0.92
+          },
+          {
+            "word": "stability",
+            "similarity": 0.91
+          },
+          {
+            "word": "balance",
+            "similarity": 0.9
+          },
+          {
+            "word": "unity",
+            "similarity": 0.89
+          },
+          {
+            "word": "quiet",
+            "similarity": 0.88
+          },
+          {
+            "word": "resolution",
+            "similarity": 0.87
+          },
+          {
+            "word": "agreement",
+            "similarity": 0.86
+          },
+          {
+            "word": "coexistence",
+            "similarity": 0.85
+          },
+          {
+            "word": "relaxation",
+            "similarity": 0.84
+          },
+          {
+            "word": "serenity",
+            "similarity": 0.83
+          },
+          {
+            "word": "stillness",
+            "similarity": 0.82
+          },
+          {
+            "word": "order",
+            "similarity": 0.81
+          },
+          {
+            "word": "calmness",
+            "similarity": 0.8
+          },
+          {
+            "word": "rest",
+            "similarity": 0.79
+          },
+          {
+            "word": "diplomacy",
+            "similarity": 0.78
+          },
+          {
+            "word": "reconciliation",
+            "similarity": 0.77
+          },
+          {
+            "word": "safety",
+            "similarity": 0.76
+          },
+          {
+            "word": "clarity",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "harmony",
+            "similarity": 0.95
+          },
+          {
+            "word": "reconciliation",
+            "similarity": 0.94
+          },
+          {
+            "word": "stability",
+            "similarity": 0.93
+          },
+          {
+            "word": "safety",
+            "similarity": 0.92
+          },
+          {
+            "word": "justice",
+            "similarity": 0.91
+          },
+          {
+            "word": "coexistence",
+            "similarity": 0.9
+          },
+          {
+            "word": "diplomacy",
+            "similarity": 0.89
+          },
+          {
+            "word": "wellbeing",
+            "similarity": 0.88
+          },
+          {
+            "word": "community",
+            "similarity": 0.87
+          },
+          {
+            "word": "dignity",
+            "similarity": 0.86
+          },
+          {
+            "word": "resolution",
+            "similarity": 0.85
+          },
+          {
+            "word": "trust",
+            "similarity": 0.84
+          },
+          {
+            "word": "cooperation",
+            "similarity": 0.83
+          },
+          {
+            "word": "calm",
+            "similarity": 0.82
+          },
+          {
+            "word": "unity",
+            "similarity": 0.81
+          },
+          {
+            "word": "inclusion",
+            "similarity": 0.8
+          },
+          {
+            "word": "balance",
+            "similarity": 0.79
+          },
+          {
+            "word": "rights",
+            "similarity": 0.78
+          },
+          {
+            "word": "equity",
+            "similarity": 0.77
+          },
+          {
+            "word": "tranquility",
+            "similarity": 0.76
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "equilibrium",
+            "similarity": 0.94
+          },
+          {
+            "word": "stability",
+            "similarity": 0.93
+          },
+          {
+            "word": "low-entropy",
+            "similarity": 0.92
+          },
+          {
+            "word": "synchronization",
+            "similarity": 0.91
+          },
+          {
+            "word": "balance",
+            "similarity": 0.9
+          },
+          {
+            "word": "rest-state",
+            "similarity": 0.89
+          },
+          {
+            "word": "calibration",
+            "similarity": 0.88
+          },
+          {
+            "word": "operation",
+            "similarity": 0.87
+          },
+          {
+            "word": "baseline",
+            "similarity": 0.86
+          },
+          {
+            "word": "harmony",
+            "similarity": 0.85
+          },
+          {
+            "word": "normalization",
+            "similarity": 0.84
+          },
+          {
+            "word": "steady-state",
+            "similarity": 0.83
+          },
+          {
+            "word": "regulation",
+            "similarity": 0.82
+          },
+          {
+            "word": "integration",
+            "similarity": 0.81
+          },
+          {
+            "word": "homeostasis",
+            "similarity": 0.8
+          },
+          {
+            "word": "coordination",
+            "similarity": 0.79
+          },
+          {
+            "word": "optimal",
+            "similarity": 0.78
+          },
+          {
+            "word": "alignment",
+            "similarity": 0.77
+          },
+          {
+            "word": "protocol",
+            "similarity": 0.76
+          },
+          {
+            "word": "non-interference",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "power",
+      "name": "Power",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "authority",
+            "similarity": 0.92
+          },
+          {
+            "word": "influence",
+            "similarity": 0.91
+          },
+          {
+            "word": "dominance",
+            "similarity": 0.9
+          },
+          {
+            "word": "control",
+            "similarity": 0.89
+          },
+          {
+            "word": "strength",
+            "similarity": 0.88
+          },
+          {
+            "word": "leadership",
+            "similarity": 0.87
+          },
+          {
+            "word": "command",
+            "similarity": 0.86
+          },
+          {
+            "word": "force",
+            "similarity": 0.85
+          },
+          {
+            "word": "supremacy",
+            "similarity": 0.84
+          },
+          {
+            "word": "rule",
+            "similarity": 0.83
+          },
+          {
+            "word": "governance",
+            "similarity": 0.82
+          },
+          {
+            "word": "impact",
+            "similarity": 0.81
+          },
+          {
+            "word": "leverage",
+            "similarity": 0.8
+          },
+          {
+            "word": "capacity",
+            "similarity": 0.79
+          },
+          {
+            "word": "energy",
+            "similarity": 0.78
+          },
+          {
+            "word": "might",
+            "similarity": 0.77
+          },
+          {
+            "word": "prestige",
+            "similarity": 0.76
+          },
+          {
+            "word": "status",
+            "similarity": 0.75
+          },
+          {
+            "word": "commandment",
+            "similarity": 0.74
+          },
+          {
+            "word": "control-system",
+            "similarity": 0.73
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "authority",
+            "similarity": 0.93
+          },
+          {
+            "word": "influence",
+            "similarity": 0.92
+          },
+          {
+            "word": "control",
+            "similarity": 0.91
+          },
+          {
+            "word": "leadership",
+            "similarity": 0.9
+          },
+          {
+            "word": "governance",
+            "similarity": 0.89
+          },
+          {
+            "word": "responsibility",
+            "similarity": 0.88
+          },
+          {
+            "word": "impact",
+            "similarity": 0.87
+          },
+          {
+            "word": "capability",
+            "similarity": 0.86
+          },
+          {
+            "word": "dominance",
+            "similarity": 0.85
+          },
+          {
+            "word": "stewardship",
+            "similarity": 0.84
+          },
+          {
+            "word": "decision-making",
+            "similarity": 0.83
+          },
+          {
+            "word": "guidance",
+            "similarity": 0.82
+          },
+          {
+            "word": "regulation",
+            "similarity": 0.81
+          },
+          {
+            "word": "oversight",
+            "similarity": 0.8
+          },
+          {
+            "word": "structure",
+            "similarity": 0.79
+          },
+          {
+            "word": "system",
+            "similarity": 0.78
+          },
+          {
+            "word": "coordination",
+            "similarity": 0.77
+          },
+          {
+            "word": "organization",
+            "similarity": 0.76
+          },
+          {
+            "word": "authority-system",
+            "similarity": 0.75
+          },
+          {
+            "word": "influence-network",
+            "similarity": 0.74
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "strength",
+            "similarity": 0.93
+          },
+          {
+            "word": "energy",
+            "similarity": 0.92
+          },
+          {
+            "word": "force",
+            "similarity": 0.91
+          },
+          {
+            "word": "electricity",
+            "similarity": 0.9
+          },
+          {
+            "word": "engine",
+            "similarity": 0.89
+          },
+          {
+            "word": "capacity",
+            "similarity": 0.88
+          },
+          {
+            "word": "output",
+            "similarity": 0.87
+          },
+          {
+            "word": "performance",
+            "similarity": 0.86
+          },
+          {
+            "word": "efficiency",
+            "similarity": 0.85
+          },
+          {
+            "word": "system",
+            "similarity": 0.84
+          },
+          {
+            "word": "mechanism",
+            "similarity": 0.83
+          },
+          {
+            "word": "operation",
+            "similarity": 0.82
+          },
+          {
+            "word": "process",
+            "similarity": 0.81
+          },
+          {
+            "word": "dynamics",
+            "similarity": 0.8
+          },
+          {
+            "word": "motion",
+            "similarity": 0.79
+          },
+          {
+            "word": "transfer",
+            "similarity": 0.78
+          },
+          {
+            "word": "physics",
+            "similarity": 0.77
+          },
+          {
+            "word": "energy-flow",
+            "similarity": 0.76
+          },
+          {
+            "word": "power-source",
+            "similarity": 0.75
+          },
+          {
+            "word": "generator",
+            "similarity": 0.74
+          }
+        ]
+      }
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "innovation",
+            "similarity": 0.94
+          },
+          {
+            "word": "engineering",
+            "similarity": 0.93
+          },
+          {
+            "word": "computing",
+            "similarity": 0.92
+          },
+          {
+            "word": "software",
+            "similarity": 0.91
+          },
+          {
+            "word": "hardware",
+            "similarity": 0.9
+          },
+          {
+            "word": "systems",
+            "similarity": 0.89
+          },
+          {
+            "word": "automation",
+            "similarity": 0.88
+          },
+          {
+            "word": "digital",
+            "similarity": 0.87
+          },
+          {
+            "word": "AI",
+            "similarity": 0.86
+          },
+          {
+            "word": "machine",
+            "similarity": 0.85
+          },
+          {
+            "word": "tools",
+            "similarity": 0.84
+          },
+          {
+            "word": "development",
+            "similarity": 0.83
+          },
+          {
+            "word": "network",
+            "similarity": 0.82
+          },
+          {
+            "word": "infrastructure",
+            "similarity": 0.81
+          },
+          {
+            "word": "robotics",
+            "similarity": 0.8
+          },
+          {
+            "word": "data",
+            "similarity": 0.79
+          },
+          {
+            "word": "electronics",
+            "similarity": 0.78
+          },
+          {
+            "word": "platform",
+            "similarity": 0.77
+          },
+          {
+            "word": "cyber",
+            "similarity": 0.76
+          },
+          {
+            "word": "innovation-system",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "innovation",
+            "similarity": 0.94
+          },
+          {
+            "word": "tools",
+            "similarity": 0.93
+          },
+          {
+            "word": "systems",
+            "similarity": 0.92
+          },
+          {
+            "word": "AI",
+            "similarity": 0.91
+          },
+          {
+            "word": "automation",
+            "similarity": 0.9
+          },
+          {
+            "word": "infrastructure",
+            "similarity": 0.89
+          },
+          {
+            "word": "development",
+            "similarity": 0.88
+          },
+          {
+            "word": "computing",
+            "similarity": 0.87
+          },
+          {
+            "word": "access",
+            "similarity": 0.86
+          },
+          {
+            "word": "impact",
+            "similarity": 0.85
+          },
+          {
+            "word": "responsibility",
+            "similarity": 0.84
+          },
+          {
+            "word": "safety",
+            "similarity": 0.83
+          },
+          {
+            "word": "engineering",
+            "similarity": 0.82
+          },
+          {
+            "word": "network",
+            "similarity": 0.81
+          },
+          {
+            "word": "data",
+            "similarity": 0.8
+          },
+          {
+            "word": "governance",
+            "similarity": 0.79
+          },
+          {
+            "word": "software",
+            "similarity": 0.78
+          },
+          {
+            "word": "digital",
+            "similarity": 0.77
+          },
+          {
+            "word": "ethics",
+            "similarity": 0.76
+          },
+          {
+            "word": "platform",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "hardware",
+            "similarity": 0.94
+          },
+          {
+            "word": "software",
+            "similarity": 0.93
+          },
+          {
+            "word": "network",
+            "similarity": 0.92
+          },
+          {
+            "word": "processing",
+            "similarity": 0.91
+          },
+          {
+            "word": "output",
+            "similarity": 0.9
+          },
+          {
+            "word": "capability",
+            "similarity": 0.89
+          },
+          {
+            "word": "engineering",
+            "similarity": 0.88
+          },
+          {
+            "word": "function",
+            "similarity": 0.87
+          },
+          {
+            "word": "framework",
+            "similarity": 0.86
+          },
+          {
+            "word": "execution",
+            "similarity": 0.85
+          },
+          {
+            "word": "automation",
+            "similarity": 0.84
+          },
+          {
+            "word": "integration",
+            "similarity": 0.83
+          },
+          {
+            "word": "computing",
+            "similarity": 0.82
+          },
+          {
+            "word": "interface",
+            "similarity": 0.81
+          },
+          {
+            "word": "logic",
+            "similarity": 0.8
+          },
+          {
+            "word": "mechanism",
+            "similarity": 0.79
+          },
+          {
+            "word": "protocol",
+            "similarity": 0.78
+          },
+          {
+            "word": "platform",
+            "similarity": 0.77
+          },
+          {
+            "word": "signal",
+            "similarity": 0.76
+          },
+          {
+            "word": "architecture",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "time",
+      "name": "Time",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "duration",
+            "similarity": 0.94
+          },
+          {
+            "word": "moment",
+            "similarity": 0.93
+          },
+          {
+            "word": "period",
+            "similarity": 0.92
+          },
+          {
+            "word": "timeline",
+            "similarity": 0.91
+          },
+          {
+            "word": "past",
+            "similarity": 0.9
+          },
+          {
+            "word": "future",
+            "similarity": 0.89
+          },
+          {
+            "word": "present",
+            "similarity": 0.88
+          },
+          {
+            "word": "sequence",
+            "similarity": 0.87
+          },
+          {
+            "word": "change",
+            "similarity": 0.86
+          },
+          {
+            "word": "evolution",
+            "similarity": 0.85
+          },
+          {
+            "word": "clock",
+            "similarity": 0.84
+          },
+          {
+            "word": "history",
+            "similarity": 0.83
+          },
+          {
+            "word": "flow",
+            "similarity": 0.82
+          },
+          {
+            "word": "interval",
+            "similarity": 0.81
+          },
+          {
+            "word": "age",
+            "similarity": 0.8
+          },
+          {
+            "word": "phase",
+            "similarity": 0.79
+          },
+          {
+            "word": "cycle",
+            "similarity": 0.78
+          },
+          {
+            "word": "span",
+            "similarity": 0.77
+          },
+          {
+            "word": "progression",
+            "similarity": 0.76
+          },
+          {
+            "word": "continuity",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "continuity",
+            "similarity": 0.94
+          },
+          {
+            "word": "change",
+            "similarity": 0.93
+          },
+          {
+            "word": "history",
+            "similarity": 0.92
+          },
+          {
+            "word": "progress",
+            "similarity": 0.91
+          },
+          {
+            "word": "past",
+            "similarity": 0.9
+          },
+          {
+            "word": "future",
+            "similarity": 0.89
+          },
+          {
+            "word": "present",
+            "similarity": 0.88
+          },
+          {
+            "word": "evolution",
+            "similarity": 0.87
+          },
+          {
+            "word": "duration",
+            "similarity": 0.86
+          },
+          {
+            "word": "legacy",
+            "similarity": 0.85
+          },
+          {
+            "word": "memory",
+            "similarity": 0.84
+          },
+          {
+            "word": "sequence",
+            "similarity": 0.83
+          },
+          {
+            "word": "moment",
+            "similarity": 0.82
+          },
+          {
+            "word": "transition",
+            "similarity": 0.81
+          },
+          {
+            "word": "growth",
+            "similarity": 0.8
+          },
+          {
+            "word": "cycle",
+            "similarity": 0.79
+          },
+          {
+            "word": "experience",
+            "similarity": 0.78
+          },
+          {
+            "word": "reflection",
+            "similarity": 0.77
+          },
+          {
+            "word": "context",
+            "similarity": 0.76
+          },
+          {
+            "word": "perspective",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "sequence",
+            "similarity": 0.94
+          },
+          {
+            "word": "interval",
+            "similarity": 0.93
+          },
+          {
+            "word": "cycle",
+            "similarity": 0.92
+          },
+          {
+            "word": "continuum",
+            "similarity": 0.91
+          },
+          {
+            "word": "state",
+            "similarity": 0.9
+          },
+          {
+            "word": "vector",
+            "similarity": 0.89
+          },
+          {
+            "word": "progression",
+            "similarity": 0.88
+          },
+          {
+            "word": "iteration",
+            "similarity": 0.87
+          },
+          {
+            "word": "duration",
+            "similarity": 0.86
+          },
+          {
+            "word": "phase",
+            "similarity": 0.85
+          },
+          {
+            "word": "chronometry",
+            "similarity": 0.84
+          },
+          {
+            "word": "measurement",
+            "similarity": 0.83
+          },
+          {
+            "word": "metric",
+            "similarity": 0.82
+          },
+          {
+            "word": "variable",
+            "similarity": 0.81
+          },
+          {
+            "word": "timeline",
+            "similarity": 0.8
+          },
+          {
+            "word": "process",
+            "similarity": 0.79
+          },
+          {
+            "word": "frequency",
+            "similarity": 0.78
+          },
+          {
+            "word": "synchronization",
+            "similarity": 0.77
+          },
+          {
+            "word": "step",
+            "similarity": 0.76
+          },
+          {
+            "word": "limit",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "truth",
+      "name": "Truth",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "fact",
+            "similarity": 0.94
+          },
+          {
+            "word": "reality",
+            "similarity": 0.93
+          },
+          {
+            "word": "accuracy",
+            "similarity": 0.92
+          },
+          {
+            "word": "honesty",
+            "similarity": 0.91
+          },
+          {
+            "word": "evidence",
+            "similarity": 0.9
+          },
+          {
+            "word": "correctness",
+            "similarity": 0.89
+          },
+          {
+            "word": "certainty",
+            "similarity": 0.88
+          },
+          {
+            "word": "validity",
+            "similarity": 0.87
+          },
+          {
+            "word": "knowledge",
+            "similarity": 0.86
+          },
+          {
+            "word": "objectivity",
+            "similarity": 0.85
+          },
+          {
+            "word": "proof",
+            "similarity": 0.84
+          },
+          {
+            "word": "clarity",
+            "similarity": 0.83
+          },
+          {
+            "word": "transparency",
+            "similarity": 0.82
+          },
+          {
+            "word": "logic",
+            "similarity": 0.81
+          },
+          {
+            "word": "statement",
+            "similarity": 0.8
+          },
+          {
+            "word": "reliability",
+            "similarity": 0.79
+          },
+          {
+            "word": "data",
+            "similarity": 0.78
+          },
+          {
+            "word": "integrity",
+            "similarity": 0.77
+          },
+          {
+            "word": "conclusion",
+            "similarity": 0.76
+          },
+          {
+            "word": "verification",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "honesty",
+            "similarity": 0.95
+          },
+          {
+            "word": "accuracy",
+            "similarity": 0.94
+          },
+          {
+            "word": "transparency",
+            "similarity": 0.93
+          },
+          {
+            "word": "integrity",
+            "similarity": 0.92
+          },
+          {
+            "word": "reality",
+            "similarity": 0.91
+          },
+          {
+            "word": "evidence",
+            "similarity": 0.9
+          },
+          {
+            "word": "accountability",
+            "similarity": 0.89
+          },
+          {
+            "word": "trust",
+            "similarity": 0.88
+          },
+          {
+            "word": "knowledge",
+            "similarity": 0.87
+          },
+          {
+            "word": "clarity",
+            "similarity": 0.86
+          },
+          {
+            "word": "objectivity",
+            "similarity": 0.85
+          },
+          {
+            "word": "fact",
+            "similarity": 0.84
+          },
+          {
+            "word": "openness",
+            "similarity": 0.83
+          },
+          {
+            "word": "reliability",
+            "similarity": 0.82
+          },
+          {
+            "word": "correctness",
+            "similarity": 0.81
+          },
+          {
+            "word": "verification",
+            "similarity": 0.8
+          },
+          {
+            "word": "authenticity",
+            "similarity": 0.79
+          },
+          {
+            "word": "disclosure",
+            "similarity": 0.78
+          },
+          {
+            "word": "responsibility",
+            "similarity": 0.77
+          },
+          {
+            "word": "validity",
+            "similarity": 0.76
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "fact",
+            "similarity": 0.94
+          },
+          {
+            "word": "verification",
+            "similarity": 0.93
+          },
+          {
+            "word": "data",
+            "similarity": 0.92
+          },
+          {
+            "word": "metric",
+            "similarity": 0.91
+          },
+          {
+            "word": "absolute",
+            "similarity": 0.9
+          },
+          {
+            "word": "logic",
+            "similarity": 0.89
+          },
+          {
+            "word": "accuracy",
+            "similarity": 0.88
+          },
+          {
+            "word": "parameter",
+            "similarity": 0.87
+          },
+          {
+            "word": "confirmation",
+            "similarity": 0.86
+          },
+          {
+            "word": "validation",
+            "similarity": 0.85
+          },
+          {
+            "word": "alignment",
+            "similarity": 0.84
+          },
+          {
+            "word": "exactness",
+            "similarity": 0.83
+          },
+          {
+            "word": "constant",
+            "similarity": 0.82
+          },
+          {
+            "word": "proof",
+            "similarity": 0.81
+          },
+          {
+            "word": "output",
+            "similarity": 0.8
+          },
+          {
+            "word": "state",
+            "similarity": 0.79
+          },
+          {
+            "word": "consistency",
+            "similarity": 0.78
+          },
+          {
+            "word": "calculation",
+            "similarity": 0.77
+          },
+          {
+            "word": "correlation",
+            "similarity": 0.76
+          },
+          {
+            "word": "signal",
+            "similarity": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "id": "war",
+      "name": "War",
+      "models": {
+        "GPT-4": [
+          {
+            "word": "conflict",
+            "similarity": 0.94
+          },
+          {
+            "word": "battle",
+            "similarity": 0.93
+          },
+          {
+            "word": "combat",
+            "similarity": 0.92
+          },
+          {
+            "word": "violence",
+            "similarity": 0.91
+          },
+          {
+            "word": "military",
+            "similarity": 0.9
+          },
+          {
+            "word": "army",
+            "similarity": 0.89
+          },
+          {
+            "word": "strategy",
+            "similarity": 0.88
+          },
+          {
+            "word": "invasion",
+            "similarity": 0.87
+          },
+          {
+            "word": "defense",
+            "similarity": 0.86
+          },
+          {
+            "word": "weapons",
+            "similarity": 0.85
+          },
+          {
+            "word": "destruction",
+            "similarity": 0.84
+          },
+          {
+            "word": "chaos",
+            "similarity": 0.83
+          },
+          {
+            "word": "hostility",
+            "similarity": 0.82
+          },
+          {
+            "word": "aggression",
+            "similarity": 0.81
+          },
+          {
+            "word": "tactics",
+            "similarity": 0.8
+          },
+          {
+            "word": "struggle",
+            "similarity": 0.79
+          },
+          {
+            "word": "confrontation",
+            "similarity": 0.78
+          },
+          {
+            "word": "offense",
+            "similarity": 0.77
+          },
+          {
+            "word": "resistance",
+            "similarity": 0.76
+          },
+          {
+            "word": "warfare",
+            "similarity": 0.75
+          }
+        ],
+        "Claude 3": [
+          {
+            "word": "conflict",
+            "similarity": 0.94
+          },
+          {
+            "word": "violence",
+            "similarity": 0.93
+          },
+          {
+            "word": "harm",
+            "similarity": 0.92
+          },
+          {
+            "word": "destruction",
+            "similarity": 0.91
+          },
+          {
+            "word": "suffering",
+            "similarity": 0.9
+          },
+          {
+            "word": "military",
+            "similarity": 0.89
+          },
+          {
+            "word": "ethics",
+            "similarity": 0.88
+          },
+          {
+            "word": "accountability",
+            "similarity": 0.87
+          },
+          {
+            "word": "justice",
+            "similarity": 0.86
+          },
+          {
+            "word": "aggression",
+            "similarity": 0.85
+          },
+          {
+            "word": "humanitarian",
+            "similarity": 0.84
+          },
+          {
+            "word": "rights",
+            "similarity": 0.83
+          },
+          {
+            "word": "protection",
+            "similarity": 0.82
+          },
+          {
+            "word": "resistance",
+            "similarity": 0.81
+          },
+          {
+            "word": "displacement",
+            "similarity": 0.8
+          },
+          {
+            "word": "trauma",
+            "similarity": 0.79
+          },
+          {
+            "word": "power",
+            "similarity": 0.78
+          },
+          {
+            "word": "responsibility",
+            "similarity": 0.77
+          },
+          {
+            "word": "reconciliation",
+            "similarity": 0.76
+          },
+          {
+            "word": "peace",
+            "similarity": 0.75
+          }
+        ],
+        "Gemini 1.5": [
+          {
+            "word": "conflict",
+            "similarity": 0.94
+          },
+          {
+            "word": "destruction",
+            "similarity": 0.93
+          },
+          {
+            "word": "termination",
+            "similarity": 0.92
+          },
+          {
+            "word": "attack",
+            "similarity": 0.91
+          },
+          {
+            "word": "target",
+            "similarity": 0.9
+          },
+          {
+            "word": "engagement",
+            "similarity": 0.89
+          },
+          {
+            "word": "strategy",
+            "similarity": 0.88
+          },
+          {
+            "word": "system-failure",
+            "similarity": 0.87
+          },
+          {
+            "word": "overload",
+            "similarity": 0.86
+          },
+          {
+            "word": "execution",
+            "similarity": 0.85
+          },
+          {
+            "word": "threat",
+            "similarity": 0.84
+          },
+          {
+            "word": "offense",
+            "similarity": 0.83
+          },
+          {
+            "word": "defense",
+            "similarity": 0.82
+          },
+          {
+            "word": "response",
+            "similarity": 0.81
+          },
+          {
+            "word": "deployment",
+            "similarity": 0.8
+          },
+          {
+            "word": "kinetic",
+            "similarity": 0.79
+          },
+          {
+            "word": "operation",
+            "similarity": 0.78
+          },
+          {
+            "word": "impact",
+            "similarity": 0.77
+          },
+          {
+            "word": "vector",
+            "similarity": 0.76
+          },
+          {
+            "word": "annihilation",
+            "similarity": 0.75
+          }
+        ]
+      }
+    }
+  ]
+}
