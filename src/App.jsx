@@ -1,9 +1,9 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import Sidebar from './components/Sidebar';
 import GraphContainer from './components/GraphContainer';
 import AnalyticsPanel from './components/AnalyticsPanel';
 import dataset from './data/dataset.json';
-import { X, Crosshair, TrendingUp, Target, Plus, Minus, RotateCcw } from 'lucide-react';
+import { X, Crosshair, TrendingUp, Target, Plus, Minus, RotateCcw, Menu, BarChart2 } from 'lucide-react';
 import './App.css';
 
 const MC = {
@@ -20,6 +20,17 @@ export default function App() {
   const [visibleModels, setVisibleModels] = useState(['GPT-4', 'Claude 3', 'Gemini 1.5']);
   const [selectedNode, setSelectedNode] = useState(null);
 
+  // Mobile state
+  const [showSidebar, setShowSidebar] = useState(false);
+  const [showAnalytics, setShowAnalytics] = useState(false);
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 1024);
+
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth < 1024);
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
   const categoryData = dataset.categories.find(c => c.id === selectedCategoryId);
 
   const handleModelToggle = (model) => {
@@ -31,6 +42,7 @@ export default function App() {
   const handleCategoryChange = (id) => {
     setSelectedCategoryId(id);
     setSelectedNode(null);
+    if (isMobile) setShowSidebar(false);
   };
 
   const handleNodeClick = (node) => {
@@ -40,14 +52,41 @@ export default function App() {
   const graphRef = useRef(null);
 
   return (
-    <div className="app-container">
-      <Sidebar
-        categories={dataset.categories}
-        selectedCategoryId={selectedCategoryId}
-        onCategoryChange={handleCategoryChange}
-        visibleModels={visibleModels}
-        onModelToggle={handleModelToggle}
-      />
+    <div className={`app-container ${isMobile ? 'is-mobile' : ''}`}>
+      {/* Mobile Header */}
+      {isMobile && (
+        <header className="mobile-nav glass-panel">
+          <button
+            className={`nav-btn ${showSidebar ? 'active' : ''}`}
+            onClick={() => { setShowSidebar(!showSidebar); setShowAnalytics(false); }}
+          >
+            <Menu size={20} />
+          </button>
+          <div className="mobile-brand">
+            <h1>LLM Mind Map</h1>
+          </div>
+          <button
+            className={`nav-btn ${showAnalytics ? 'active' : ''}`}
+            onClick={() => { setShowAnalytics(!showAnalytics); setShowSidebar(false); }}
+          >
+            <BarChart2 size={20} />
+          </button>
+        </header>
+      )}
+
+      {/* Sidebar Overlay for Mobile */}
+      {isMobile && showSidebar && <div className="sidebar-overlay" onClick={() => setShowSidebar(false)} />}
+      {isMobile && showAnalytics && <div className="sidebar-overlay" onClick={() => setShowAnalytics(false)} />}
+
+      <div className={`sidebar-wrapper ${isMobile && !showSidebar ? 'hidden' : ''}`}>
+        <Sidebar
+          categories={dataset.categories}
+          selectedCategoryId={selectedCategoryId}
+          onCategoryChange={handleCategoryChange}
+          visibleModels={visibleModels}
+          onModelToggle={handleModelToggle}
+        />
+      </div>
 
       <div className="graph-viewport glass-panel">
         <div className="floating-label">
@@ -80,32 +119,25 @@ export default function App() {
           <div className="inspector glass-panel glow-card">
             <button
               onClick={() => setSelectedNode(null)}
-              style={{
-                position: 'absolute', top: 16, right: 16, background: 'none', border: 'none', cursor: 'pointer',
-                color: 'rgba(255,255,255,0.3)', transition: 'color 0.2s'
-              }}
-              onMouseEnter={(e) => e.target.style.color = '#fff'}
-              onMouseLeave={(e) => e.target.style.color = 'rgba(255,255,255,0.3)'}
+              className="inspector-close"
             >
               <X size={18} />
             </button>
 
-            <div style={{ display: 'flex', gap: 20, alignItems: 'center', marginBottom: 24 }}>
-              <div style={{
-                width: 54, height: 54, borderRadius: 16, flexShrink: 0,
+            <div className="inspector-header">
+              <div className="inspector-icon" style={{
                 background: selectedNode.isShared
                   ? 'linear-gradient(135deg, #7c3aed, #a78bfa)'
                   : `linear-gradient(135deg, ${MC[selectedNode.models[0]]}, #1a1a20)`,
-                display: 'flex', alignItems: 'center', justifyContent: 'center',
                 boxShadow: `0 8px 16px -4px ${selectedNode.isShared ? '#7c3aed44' : MC[selectedNode.models[0]] + '33'}`
               }}>
                 <Crosshair color="#fff" size={24} />
               </div>
-              <div>
-                <h3 style={{ fontSize: '1.45rem', fontWeight: 800, margin: 0, letterSpacing: '-0.02em', color: '#fff' }}>
+              <div className="inspector-title-group">
+                <h3 className="inspector-title">
                   {selectedNode.word}
                 </h3>
-                <div style={{ display: 'flex', gap: 6, marginTop: 8 }}>
+                <div className="inspector-model-tags">
                   {selectedNode.models.map(m => (
                     <span key={m} style={{
                       padding: '3px 9px', borderRadius: 6, fontSize: '0.62rem', fontWeight: 800,
@@ -121,24 +153,22 @@ export default function App() {
               </div>
             </div>
 
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+            <div className="inspector-body">
               <div>
                 <div className="sidebar-label" style={{ fontSize: '0.55rem', marginBottom: 8 }}>
                    Embedding Confidence
                 </div>
-                <div style={{ background: 'rgba(255,255,255,0.06)', borderRadius: 10, height: 10, overflow: 'hidden' }}>
-                  <div style={{
-                    height: '100%',
+                <div className="confidence-bar-bg">
+                  <div className="confidence-bar-fill" style={{
                     width: `${selectedNode.sim * 100}%`,
                     background: selectedNode.isShared
                       ? 'linear-gradient(90deg, #6d28d9, #a78bfa)'
                       : `linear-gradient(90deg, ${MC[selectedNode.models[0]]}aa, ${MC[selectedNode.models[0]]})`,
-                    borderRadius: 10,
                     boxShadow: `0 0 12px ${selectedNode.isShared ? '#7c3aed66' : MC[selectedNode.models[0]] + '66'}`
                   }} />
                 </div>
 
-                <p style={{ fontSize: '0.85rem', color: 'rgba(255,255,255,0.45)', marginTop: 12, lineHeight: 1.6 }}>
+                <p className="inspector-desc">
                   <span style={{ color: '#fff', fontWeight: 800 }}>{(selectedNode.sim * 100).toFixed(1)}%</span>
                   {' '}semantic similarity to <strong style={{ color: '#fff' }}>{categoryData?.name}</strong>
                   {selectedNode.isShared ? ` identified by ${selectedNode.models.length} separate model architectures.` : ` in ${selectedNode.models[0]}'s embedding space.`}
@@ -149,7 +179,9 @@ export default function App() {
         )}
       </div>
 
-      <AnalyticsPanel data={categoryData} visibleModels={visibleModels} />
+      <div className={`analytics-wrapper ${isMobile && !showAnalytics ? 'hidden' : ''}`}>
+        <AnalyticsPanel data={categoryData} visibleModels={visibleModels} />
+      </div>
     </div>
   );
 }

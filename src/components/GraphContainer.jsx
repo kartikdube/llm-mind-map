@@ -46,6 +46,7 @@ const GraphContainer = forwardRef(({ data, visibleModels, onNodeClick, selectedN
     isDragging: false,
     lastMouseX: 0,
     lastMouseY: 0,
+    lastTouchDist: 0,
   });
 
   useImperativeHandle(ref, () => ({
@@ -276,6 +277,41 @@ const GraphContainer = forwardRef(({ data, visibleModels, onNodeClick, selectedN
         if (!canvasRef.current) return;
         const rect = canvasRef.current.getBoundingClientRect();
         onNodeClick?.(hit(e.clientX - rect.left, e.clientY - rect.top));
+      }}
+      onTouchStart={(e) => {
+        if (e.touches.length === 1) {
+          S.current.isDragging = true;
+          S.current.lastMouseX = e.touches[0].clientX;
+          S.current.lastMouseY = e.touches[0].clientY;
+        } else if (e.touches.length === 2) {
+          S.current.isDragging = false;
+          S.current.lastTouchDist = Math.hypot(
+            e.touches[0].clientX - e.touches[1].clientX,
+            e.touches[0].clientY - e.touches[1].clientY
+          );
+        }
+      }}
+      onTouchMove={(e) => {
+        if (e.touches.length === 1 && S.current.isDragging) {
+          S.current.offX += e.touches[0].clientX - S.current.lastMouseX;
+          S.current.offY += e.touches[0].clientY - S.current.lastMouseY;
+          S.current.lastMouseX = e.touches[0].clientX;
+          S.current.lastMouseY = e.touches[0].clientY;
+        } else if (e.touches.length === 2) {
+          const dist = Math.hypot(
+            e.touches[0].clientX - e.touches[1].clientX,
+            e.touches[0].clientY - e.touches[1].clientY
+          );
+          if (S.current.lastTouchDist) {
+            const factor = dist / S.current.lastTouchDist;
+            S.current.zoom = Math.max(0.1, Math.min(10, S.current.zoom * factor));
+          }
+          S.current.lastTouchDist = dist;
+        }
+      }}
+      onTouchEnd={() => {
+        S.current.isDragging = false;
+        S.current.lastTouchDist = 0;
       }}
     />
   );
